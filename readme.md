@@ -11,7 +11,7 @@ Facilitadora de Comunicação Cientifica no Summer Programm Star Girls Africa 20
 ## Contatos
 <div>
 
-<a href="https://instagram.com/isjanebea" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/nanda._.c" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <p>@nanda._.c</p>
 
 
