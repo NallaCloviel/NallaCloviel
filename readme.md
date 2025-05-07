@@ -1,7 +1,5 @@
 # Olá, me chamo Nargylla Cloviel
-Sou estudante de Ciência e Tecnologia na UFMA
-Membro do Clube "Garotas na Ciência"
-Integrante da Liga Acadêmica de Bioinformática da UFMA
+
 
 ## Tecnologias
 PYTHON | ANÁLISE DE DADOS
